@@ -1,7 +1,5 @@
 I am Artem Karachevtsev. Greetings to all!
 
-
-
 Bonjour! I'm Kate and that's my 2nd try!
 
 Greetings from Vitalii.
@@ -16,13 +14,9 @@ Hello world from Diana! :P
 
 hello there! Vanya' is here!
 
-
-
 Hello world from Diana! :P
 
 hello there! Vanya is here!
-
-
 
 Hi, I'm Tim. I hope this doesn't cause merge conflict
 
@@ -38,8 +32,6 @@ Hello from Stepan)
 
 Hey, I'm Yeghor! This is my attempt to tinker with Git :0
 
-
-
 Hello from Dmytro!)
 
 Hello from Tolik
@@ -48,11 +40,7 @@ Hi there from Daryna
 
 Hello from Dmytro!)
 
-
-
 Hello from Tolik
-
-
 
 Hello from Dmytro!)
 
@@ -108,7 +96,7 @@ Good evening from Solomiia ;)
 
 Hell0 from Yevhen :]!
 
-Hello Word i am Denis (O\_o)
+Hello Word i am Denis (O_o)
 
 Hi from Myroslav
 
@@ -127,3 +115,5 @@ Hello! im SashaEpta
 Hello from Tania!
 
 Heallo Artur :/
+
+Echo Alex
